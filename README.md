@@ -22,7 +22,7 @@
 		<p>📂 Java Resources/src/main/META-INF</p>
 		<p>    ↳ Persistence  Dados de persistencia</p>
 		<p>📂 root</p>
-		<p> ↳📄 pom.xml    //Este arquivo contem as dependencias e de aplicações complementares e suas respectivas versões</p>
+		<p> ↳📄 pom.xml    //Este arquivo contem as dependencias de aplicações complementares e suas respectivas versões</p>
 		
   </div>
   
